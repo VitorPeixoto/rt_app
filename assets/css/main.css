@@ -1,0 +1,18 @@
+.open {
+    background-color: #E34F32;
+    color: #FFF;
+}
+
+.pending {
+    background-color: rgb(48, 145, 236);
+    color: #FFF;
+}
+
+.solved {
+    background-color: rgb(135, 146, 157);
+    color: #FFF;
+}
+
+.clickable {
+    cursor: pointer;
+}
