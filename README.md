@@ -1,14 +1,7 @@
-# App name
+# Related Tickets
 
-[brief description of the app]
+Zendesk app that shows tickets related to selected ticket.
 
-### The following information is displayed:
+### Screenshot:
 
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+![Screenshot](https://github.com/VitorPeixoto/rt_app/blob/master/assets/Screenshot.png)
