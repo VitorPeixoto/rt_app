@@ -10,7 +10,7 @@ $(function() {
         }
     );
 
-    client.invoke('resize', { width: '100%', height: '120px' });
+    client.invoke('resize', { width: '100%', height: '200px' });
 });
 
 function redirect(path, value) {
